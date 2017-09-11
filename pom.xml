@@ -19,11 +19,9 @@
 	</repositories>
 
   <modules>
-    <module>com.fusionr.hunspell4eclipse.javaSpell</module>
     <module>com.lorands.hunspell4eclipse</module>
     <module>com.lorands.hunspell4eclipse.feature</module>
     <module>com.lorands.hunspell4eclipse.hunspelljna</module>
-    <module>com.lorands.hunspell4eclipse.javaSpell.feature</module>
     <module>com.lorands.hunspell4eclipse.updatesite</module>
   </modules>
   <build>
